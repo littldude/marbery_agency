@@ -88,8 +88,8 @@ a {
         grid-template-columns: 1fr 1fr;
     }
     &__img {
-        width: 100%;
-       height: auto;
+        width: auto;
+        height: 100%;
     }
 }
 
@@ -342,6 +342,9 @@ a {
         }
     }
     .services {
+        &__inner {
+            padding-top: 5%;
+        }
         &__grid {
             &--item {
                 padding: 15px;

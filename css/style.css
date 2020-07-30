@@ -79,8 +79,8 @@ a {
   grid-template-columns: 1fr 1fr;
 }
 .header__img {
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 100%;
 }
 
 .mobile-menu--link {
@@ -317,6 +317,9 @@ a {
     display: none;
   }
 
+  .services__inner {
+    padding-top: 5%;
+  }
   .services__grid--item {
     padding: 15px;
     font-size: 20px;
