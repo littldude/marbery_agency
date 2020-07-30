@@ -128,10 +128,13 @@ a {
             text-transform: uppercase;
         }
         &--small {
-            font-size: 22px;
-            font-weight: 400;
+            h3 {
+            font-size: 20px;
+            font-weight: 300;
             text-transform: lowercase;
             line-height: 1;
+            }
+            
         }
     }
 }

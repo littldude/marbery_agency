@@ -112,9 +112,9 @@ a {
   font-weight: 700;
   text-transform: uppercase;
 }
-.text__inner--small {
-  font-size: 22px;
-  font-weight: 400;
+.text__inner--small h3 {
+  font-size: 20px;
+  font-weight: 300;
   text-transform: lowercase;
   line-height: 1;
 }
